@@ -1,2 +1,2 @@
-# beginning
-My first project 
+# Beginning
+My first repository!!
